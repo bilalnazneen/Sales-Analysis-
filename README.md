@@ -34,5 +34,6 @@
 - Pivot Table
 
 ### Dashboard
-- [Download the file]  and open in Power BI Desktop for interactive viewing.
-- [See a screenshot] of the Dashboard in pdf.
+- [Download the file]  (https://github.com/bilalnazneen/Sales-Analysis-/blob/main/Project/Sales%20Report_Dashboard_Nazneen.pbix)and open in Power BI Desktop for interactive viewing.
+- [See the screenshot] of the Dashboard
+  (
