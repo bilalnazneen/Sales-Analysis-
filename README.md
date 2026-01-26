@@ -1,31 +1,38 @@
-# Sales-Analysis-
 
-**Create Dashboard in Power BI**
-1. Load Data
-2. Organize & Prepare Tables
-3. Connect Tables for Data Model
-4. Import Fact_Budget
-5. Calculation Measures
-6. Dashboard Design
-7. Import Custom Visual
-8. Measure Table
-9. Pie Chart
-10. Line Chart
-11. Bar Charts
-12. Map Graph
-13. Top 10 Graphs
-14. Gradient Bar Chart Color
-15. Customer Details
-16. Pivot Table
+# SalesAnalysis_SQL_PowerBI
 
+### Setup
+- This project requires SQL Server (SQL Express), Power BI Desktop
+- We will work with backup Data Warehouse (DW) data and Lightweight (LT) data. Obtain data and restore following instructions from [here.](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms)
+- Compare DW and LT data to understand the difference between structured and unstructured data. We will primarily be working with Data Warehouse data.
+- Update Data Warehouse data using [sql script.](https://github.com/techtalkcorner/SampleDemoFiles/blob/master/Database/AdventureWorks/Update_AdventureWorksDW_Data.sql)
 
-**Screenshots**
+### Business Request & User Stories
+- Read the sample business request, demand overview & filled-out user stories to understand the problem we are trying to solve with Data Analysis and what we consider as a solution.
 
-<img width="892" height="507" alt="SalesReport_SalesOverview" src="https://github.com/user-attachments/assets/c48b10f2-ff05-4514-8508-9d7f823f3996" />
+### Clean the Data using T-SQL
+- Understand the difference between FACT tables & Dimension tables.
+- Identify which tables in the data are of interest with the help of the Business Request form.
+- Choose which columns are of interest to export by preparing and transforming these columns in SQL using concepts such as: renaming columns, combining columns, commenting in SQL script, formatting of SQL statements, WHERE clause, ORDER BY, LEFT JOIN, CASE() function and ISNULL() function. 
 
-<img width="898" height="505" alt="SalesReport_CustomerDetails" src="https://github.com/user-attachments/assets/109f082a-0891-44b6-9e70-03186a37e0b5" />
+### Create Dashboard in Power BI
+- Load Data
+- Organize & Prepare Tables
+- Connect Tables for Data Model
+- Import Fact_Budget
+- Calculation Measures
+- Dashboard Design
+- Import Custom Visual
+- Measure Table
+- Pie Chart
+- Line Chart
+- Bar Charts
+- Map Graph
+- Top 10 Graphs
+- Gradient Bar Chart Color
+- Customer Details
+- Pivot Table
 
-<img width="892" height="503" alt="SalesReport_ProductDetails" src="https://github.com/user-attachments/assets/c5516189-da5f-42e3-87e3-46ced746f761" />
-
-<img width="898" height="505" alt="SalesReport_CustomerDetails" src="https://github.com/user-attachments/assets/39dd4937-86f6-4111-8b31-3f3889aee322" />
-
+### Dashboard
+- [Download the file]  and open in Power BI Desktop for interactive viewing.
+- [See a screenshot] of the Dashboard in pdf.
