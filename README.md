@@ -35,4 +35,4 @@
 
 ### Dashboard
 - [Download the file]  (https://github.com/bilalnazneen/Sales-Analysis-/blob/main/Project/Sales%20Report_Dashboard_Nazneen.pbix)and open in Power BI Desktop for interactive viewing.
-- [See the screenshot] of the Dashboard (https://github.com/bilalnazneen/Sales-Analysis-/tree/main/images)
+- [See the screenshot] of the Dashboard (https://github.com/bilalnazneen/SalesReport_SQL_PowerBI/tree/main/images)
